@@ -19,7 +19,9 @@ Download the Labelfy plugin and include these together with your jQuery version.
 <script src="js/jquery.labelfy.js"></script>
 `````
 
-####Call Labelfy
+####Calling Labelfy
+
+Knock, knock. Who is there? Me, I call you, Labelfy!
 
 To submit Labelfy on a selector, use following line:
 `````

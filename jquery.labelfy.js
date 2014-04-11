@@ -37,7 +37,6 @@ $ = jQuery;
 
                 if (!object.fx == false)
                 {
-                    console.log('fx set');
                     methods.setEffect(selector, object);
                 }   
 

@@ -1,0 +1,4 @@
+Labelfy
+=======
+
+jQuery Plugin - Labelfy

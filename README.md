@@ -3,23 +3,23 @@ Labelfy
 
 jQuery Plugin - Labelfy
 
-#Description
+##Description
 Labelfy is a little jQuery plugin which merges an inputbox and its label together, and puts it into a placeholder element. Very handy if you don't have enough space for labels, or when you use auto generated forms.
 
-#Requirements
+##Requirements
 Labelfy requires jQuery 1.9.x or higer. If you want to use effects you need to include jQuery UI 1.10.x or higher.
 
-#Getting Started
+##Getting Started
 Download the Labelfy plugin and include these together with your jQuery version.
 
-###Includes
+#####Includes
 `````
 <script src="js/jquery-1.9.1.js"></script>
 <script src="js/jquery-ui-1.10.4.min.js"></script>
 <script src="js/jquery.labelfy.js"></script>
 `````
 
-###Call Labelfy
+#####Call Labelfy
 
 To submit Labelfy on a selector, use following line:
 `````
@@ -30,9 +30,9 @@ $(this).labelfy(
         fx: 'pulsate'
     });
 `````
-###Options
+#####Options
 
-You can customize Labelfy by following options:
+You can customize Labelfy by following available options:
 
 <table>
 <thead>

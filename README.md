@@ -47,7 +47,7 @@ You can customize Labelfy by following available options:
     </thead>
     <tbody>
         <tr>
-            <td>text</td>
+            <td>color</td>
             <td>#666</td>
             <td>Defines placeholder color</td>
             <td>*</td>
